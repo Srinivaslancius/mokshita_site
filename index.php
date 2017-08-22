@@ -60,7 +60,7 @@
                             <p>this is not only an elegant theme but also<br> a course management system<br> for wordpress and drupal
                             </p>
                             <div class="group">
-                                <a href="#" class="mc-btn btn-style-1">See full features</a>
+                                <a href="about_us.php" class="mc-btn btn-style-1">See full features</a>
                             </div>
                         </div>
 
@@ -80,7 +80,7 @@
                             <p>this is not only an elegant theme but also<br> a course management system<br> for wordpress and drupal
                             </p>
                             <div class="group">
-                                <a href="#" class="mc-btn btn-style-1">See full features</a>
+                                <a href="about_us.php" class="mc-btn btn-style-1">See full features</a>
                             </div>
                         </div>
 
@@ -106,7 +106,7 @@
                     <div class="mc-section-1-content-1"> 
                         <h2 class="big">About Mokshita Institute</h2>
                         <p class="mc-text">Dynamic, result oriented leader with a strong track record of performance in turnaround and high-paced organization. Utilize keen analysis and insights and team approach to drive organizational improvements.</p>
-                        <a href="#" class="mc-btn btn-style-1">Read More</a>
+                        <a href="about_us.php" class="mc-btn btn-style-1">Read More</a>
                     </div>
                 </div>
     
@@ -115,28 +115,28 @@
                         <div class="col-sm-6">
                             <div class="featured-item">
                                 <i class="icon icon-featured-1"></i>
-                                <h4 class="title-box text-uppercase">Strategy, vision & mission planning</h4>
+                                <a href="about_us.php"><h4 class="title-box text-uppercase">Strategy, vision & mission planning</h4></a>
                             </div>
                         </div>
     
                         <div class="col-sm-6">
                             <div class="featured-item">
                                 <i class="icon icon-featured-2"></i>
-                                <h4 class="title-box text-uppercase">Programs & Services</h4>
+                                <a href="about_us.php"><h4 class="title-box text-uppercase">Programs & Services</h4></a>
                             </div>
                         </div>
     
                         <div class="col-sm-6">
                             <div class="featured-item">
                                 <i class="icon icon-featured-3"></i>
-                                <h4 class="title-box text-uppercase">Contract Negotiations & Strategic Alliances</h4>
+                                <a href="about_us.php"><h4 class="title-box text-uppercase">Contract Negotiations & Strategic Alliances</h4></a>
                             </div>
                         </div>
     
                         <div class="col-sm-6">
                             <div class="featured-item">
                                 <i class="icon icon-featured-4"></i>
-                                <h4 class="title-box text-uppercase">Public Relations & Media Affairs</h4>
+                                <a href="about_us.php"><h4 class="title-box text-uppercase">Public Relations & Media Affairs</h4></a>
                             </div>
                         </div>
                     </div>
@@ -161,7 +161,7 @@
                         <div class="ct">
                             <h2 class="big">Learning  in Mokshita Institute easier than ever before</h2>
                             <p class="mc-text">Recommended a strategic advertising plan to effectively market the full-range of software modules.</p>
-                            <a href="#" class="mc-btn btn-style-3">See how it work</a>
+                            <a href="about_us.php" class="mc-btn btn-style-3">See how it work</a>
                         </div>
                     </div>
     
