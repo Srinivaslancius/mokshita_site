@@ -42,7 +42,7 @@
 
                     <li class="no-padding <?php if($page_name == 'content_pages.php') { echo "active"; } ?>"><a class="waves-effect waves-grey" href="content_pages.php"><i class="material-icons">settings_input_svideo</i>Content Pages</a>
                     
-                    <li class="no-padding <?php if($page_name == 'banners.php') { echo "active"; } ?>"><a class="waves-effect waves-grey" href="banners.php"><i class="material-icons">settings_input_svideo</i>Banners</a>
+                    <!-- <li class="no-padding <?php if($page_name == 'banners.php') { echo "active"; } ?>"><a class="waves-effect waves-grey" href="banners.php"><i class="material-icons">settings_input_svideo</i>Banners</a> -->
 
                     <li class="no-padding <?php if($page_name == 'course_types.php') { echo "active"; } ?>"><a class="waves-effect waves-grey" href="course_types.php"><i class="material-icons">settings_input_svideo</i>Course Types</a></li>
                     <li class="no-padding <?php if($page_name == 'students.php') { echo "active"; } ?>"><a class="waves-effect waves-grey" href="students.php"><i class="material-icons">settings_input_svideo</i>Students</a></li>
