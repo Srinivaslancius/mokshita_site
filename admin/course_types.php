@@ -8,7 +8,7 @@
                     <div class="col s12 m12 l12">
                         <div class="card">
                             <div class="card-content">
-                                <a href="add_events.php" style="float:right">Add Course</a>
+                                <a href="add_course.php" style="float:right">Add Course</a>
                                 <span class="card-title">Course</span>
                                 <?php $getData = getAllDataWithActiveRecent('course_types'); $i=1; ?>
                                 <table id="example" class="display responsive-table datatable-example">
@@ -24,7 +24,7 @@
                                         <tr>
                                             <td><?php echo $i;?></td>
                                             <td><?php echo $row['course_name'];?></td>
-                                            <td><a href="edit_event_type.php?uid=<?php echo $row['id'];?>"><i class="material-icons dp48">edit</i></a></td>
+                                            <td><a href="edit_course.php?uid=<?php echo $row['id'];?>"><i class="material-icons dp48">edit</i></a></td>
                                         </tr>               
                                        <?php $i++; } ?>
                                     </tbody>
