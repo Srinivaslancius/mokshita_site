@@ -92,13 +92,7 @@
                                     <input id="title" type="text" class="validate" name="mobile"  required value="<?php echo $getSiteSettingsData['mobile'];?>">
                                     <label for="title">Mobile</label>
                                 </div>
-
-                                <div class="input-field col s12">
-                                    <input id="delivery_charges" type="text" class="validate" name="delivery_charges" required value="<?php echo $getSiteSettingsData['delivery_charges'];?>">
-                                    <label for="title">Delivery Charges</label>
-                                </div>
-
-                                <div class="form-group">
+                               <div class="form-group">
                                     <label for="name" class="col-lg-3 col-sm-3 control-label"></label>
                                     <div class="col-lg-9">
                                         <img src="<?php echo $base_url . 'uploads/logo/'.$getSiteSettingsData['logo'] ?>" height="100" width="100" id="output"/>
