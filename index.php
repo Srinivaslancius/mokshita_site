@@ -184,7 +184,7 @@
             <!-- FEATURE -->
             <div class="feature-course">
                 <h4 class="title-box text-uppercase">COURSES</h4>
-                <a href="categories.html" class="all-course mc-btn btn-style-1">View all</a>
+                <a href="courses.php" class="all-course mc-btn btn-style-1">View all</a>
                 <div class="row">
                     <div class="feature-slider">
                         
