@@ -189,6 +189,7 @@ by providing high-quality professional education and vocational skills to   all 
                                 <tr>
                                     <th style="text-align:center;color:#14548E">S.No</th>
                                     <th style="text-align:center;color:#14548E">Name </th>
+                                    <th style="text-align:center;color:#14548E">Qualification</th>
                                     <th style="text-align:center;color:#14548E">Area of  Teaching And Non Teching </th>
                                     <th style="text-align:center;color:#14548E">Experience(in years/months)</th>
                                 </tr>
