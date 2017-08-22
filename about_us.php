@@ -62,14 +62,9 @@
             
             <div class="row">
 
-                 <div class="col-md-12">
-                    <div class="avatar-acount" style="text-align:center">
-                        <img src="images/ASCBE main.jpg" alt="" style="width:200px; height:200px;">
-                    </div>    
-                </div>
-
+                
                 <div class="col-md-12">
-                    <div class="avatar-acount">
+                    <div class="avatar-acount col-md-9">
                         <?php $getAboutUsData = getIndividualDetails('2',"content_pages","id"); ?>  
                         <div class="info-acount">
                             <h3 class="md black"style="color:#14548E"><b>About Us:</b></h3>
@@ -77,7 +72,13 @@
                             <?php //echo $getAboutUsData['description']; ?>
                             </p>     
                         </div>
+                    </div>  
+                     <div class="col-md-3">
+                    <div class="avatar-acount" style="text-align:center">
+                        <img src="images/ASCBE.JPG" alt="" style="width:190px; height:190px;">
                     </div>    
+                </div>
+  
                 </div>
                 
             </div>  
