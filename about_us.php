@@ -168,7 +168,7 @@ by providing high-quality professional education and vocational skills to   all 
                 </div>
                 
             </div>
-            <div class="row">
+         <!--   <div class="row">
                 <div class="col-md-12">
                     <div class="avatar-acount">
                         <?php $getAboutUsData = getIndividualDetails('2',"content_pages","id"); ?>  
@@ -576,7 +576,7 @@ by providing high-quality professional education and vocational skills to   all 
                     </div>    
                 </div>
                 
-            </div>                      
+            </div>      -->                
         </div>
     </section>
     
