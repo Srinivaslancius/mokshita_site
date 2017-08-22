@@ -136,12 +136,12 @@
                         <div class="item course-code">
                             <i class="icon md-img-check"></i>
                             <h4><a href="#">Course Start Date</a></h4>
-                            <p class="detail-course"><?php echo date("D M d, Y", strtotime($row['course_start_date']));?></p>
+                            <p class="detail-course"><?php if($row['course_start_date']!='') { echo date("D M d, Y", strtotime($row['course_start_date'])); } else { }?></p>
                         </div>
                         <div class="item course-code">
                             <i class="icon md-img-check"></i>
                             <h4><a href="#">Course End Date</a></h4>
-                            <p class="detail-course"><?php echo date("D M d, Y", strtotime($row['course_end_date']));?></p>
+                            <p class="detail-course"><?php if($row['course_end_date']!='') { echo date("D M d, Y", strtotime($row['course_end_date'])); } else { }?></p>
                         </div>
                     </div>
                 </div>

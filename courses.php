@@ -1,7 +1,6 @@
-
+<?php include_once 'header.php'; error_reporting(0);?>
 <!DOCTYPE html>
 <html lang="en">
-
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -52,17 +51,13 @@
     </section>
     <!-- END / PROFILE FEATURE -->
 
-
     <!-- CONTEN BAR -->
     
    <!-- END / CONTENT BAR -->
 
-
-
-
     <!-- PROFILE -->
     
-    <section id="categories-content" class="categories-content">
+  <section id="categories-content" class="categories-content">
         <div class="container">
             <div class="row">
     
@@ -79,7 +74,7 @@
                                     <div class="meta-categories"><a href="#">Java</a></div>
                                     <div class="content-item">
 
-                                        <h4><a href="Courses.php">Java</a></h4>
+                                        <h4><a href="#">Java</a></h4>
 
                                     </div>
                                 </div>
@@ -93,7 +88,7 @@
                                     <div class="meta-categories"><a href="#">C++</a></div>
                                     <div class="content-item">
 
-                                        <h4><a href="Courses.php">C++</a></h4>
+                                        <h4><a href="#">C++</a></h4>
 
                                     </div>
                                 </div>
@@ -107,7 +102,7 @@
                                     <div class="meta-categories"><a href="#">We Designing</a></div>
                                     <div class="content-item">
 
-                                        <h4><a href="Courses.php">Web Designing</a></h4>
+                                        <h4><a href="#">Web Designing</a></h4>
 
                                     </div>
                                 </div>
@@ -120,7 +115,7 @@
                                     <div class="meta-categories"><a href="#">DTP</a></div>
                                     <div class="content-item">
 
-                                        <h4><a href="Courses.php">DTP</a></h4>
+                                        <h4><a href="#">DTP</a></h4>
 
                                     </div>
                                 </div>
@@ -135,7 +130,7 @@
                                     <div class="meta-categories"><a href="#">Multi Media</a></div>
                                     <div class="content-item">
 
-                                        <h4><a href="Courses.php">Multi Media</a></h4>
+                                        <h4><a href="#">Multi Media</a></h4>
 
                                     </div>
                                 </div>
@@ -150,7 +145,7 @@
                                     <div class="meta-categories"><a href="#">Pgdca</a></div>
                                     <div class="content-item">
 
-                                        <h4><a href="Courses.php">PGDCA</a></h4>
+                                        <h4><a href="#">PGDCA</a></h4>
 
                                     </div>
                                 </div>
@@ -164,7 +159,7 @@
                                     <div class="meta-categories"><a href="#">Tally</a></div>
                                     <div class="content-item">
 
-                                        <h4><a href="Courses.php">Tally</a></h4>
+                                        <h4><a href="#">Tally</a></h4>
 
                                     </div>
                                 </div>
@@ -176,21 +171,13 @@
         </div>
     </section>
     
-    
-
     <!-- END / PROFILE -->
 
- 
-    
     <!-- FOOTER -->
     <footer id="footer" class="footer"> 
         <?php include_once './footer.php';?>
     </footer>
     <!-- END / FOOTER -->
-
-
-
-
 
 </div>
 <!-- END / PAGE WRAP -->
